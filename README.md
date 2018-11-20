@@ -1,2 +1,2 @@
 # FizzBuzz
-#Just a solution to the classic Fizz Buzz programming problem
+Just a solution to the classic Fizz Buzz programming problem
